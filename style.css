@@ -23,6 +23,7 @@ main{
     box-shadow: 5px 5px 31px -18px rgba(66, 68, 99, .5);
     width: 700px;
     min-height: 500px;
+    border-radius: 34px;
 }
 .leftContent{
     background-image: var(--background);
